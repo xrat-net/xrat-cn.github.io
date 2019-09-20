@@ -26,9 +26,11 @@ github_username:  xpgo
 markdown: kramdown
 
 # theme: minima
-theme: tale
+remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
 
 permalink:  /:year-:month-:day/:title
 paginate:   10

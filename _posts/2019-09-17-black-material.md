@@ -7,7 +7,7 @@ category: Infor
 tags: [infor]
 ---
 
-![black mat](https://ngrok.xscale.cn:8097/images/2019/09/17/e7b655ac19a41d90076578b37b3fe938.jpg)
+![black mat](https://at.xpect.cn:97/images/2019/09/17/e7b655ac19a41d90076578b37b3fe938.jpg)
 
 > 文章来自Ifanr, 原文[链接](https://www.ifanr.com/1260630)
 
@@ -17,7 +17,7 @@ tags: [infor]
 
 数字看起来和厉害，但实际上有多黑？我们直接来看图好了。在下图的左半部分，是一颗闪闪发光的 16.78 克拉的天然黄钻石。而右半部分则是研究人员在这颗黄色钻石的表面涂上了这种黑色材质后的效果。
 
-![img](https://ngrok.xscale.cn:8097/images/2019/09/17/6b8aeaa2d3d5e60da30ce4254e3801da.jpg)
+![img](https://at.xpect.cn:97/images/2019/09/17/6b8aeaa2d3d5e60da30ce4254e3801da.jpg)
 _是不是像直接消失了？_
 
 事实上，最黑材质这个称号，此前是由英国 Surrey Nano Systems 公司所研发出的 Vantablack 材质所保有。这种材质约每平方厘米有十亿个紧密排列成束状的碳纳米管，吸收光的能力可以达到 99.96%。

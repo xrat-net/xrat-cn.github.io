@@ -7,7 +7,7 @@ category: Infor
 tags: [research]
 ---
 
-![albert.jpg](https://at.xpect.cn:97/images/2019/09/15/f852e1b2ba18571ee00a3b9490f0fafb.jpg)
+![albert.jpg](https://on.xhost.top:97/images/2019/09/15/f852e1b2ba18571ee00a3b9490f0fafb.jpg)
 
 > 在任何学科领域，是否有一个好导师将决定学生的研究生涯初期的成败。
 

@@ -7,7 +7,7 @@ category: Infor
 tags: [infor]
 ---
 
-![mechanics](https://at.xpect.cn:97/images/2019/09/20/ab8ba441ec59e1f53bece751f00f841a.jpg)
+![mechanics](https://on.xhost.top:97/images/2019/09/20/ab8ba441ec59e1f53bece751f00f841a.jpg)
 
 > 文章来自微信公众号, 原文[链接](http://mp.weixin.qq.com/s?__biz=MzA4Nzg4MDY1Mw==&mid=2652461080&idx=2&sn=cedaca0cccae667701a707ec794f2fe0&chksm=8bdf5ebabca8d7ac36f19cfecab32f1200498f4b21c31907f6dd4672193e54b0958cf6feb55d#rd)
 
@@ -20,29 +20,29 @@ tags: [infor]
 
 力学是一门独立的基础学科，是有关力、运动和介质（固体、液体、气体和等离子体），宏、细、微观力学性质的学科，研究以机械运动为主，及其同物理、化学、生物运动耦合的现象。力学是一门基础学科，同时又是一门技术学科。它研究能量和力以及它们与固体、液体及气体的平衡、变形或运动的关系。
 
-![mechanics1](https://at.xpect.cn:97/images/2019/09/20/91ac668698d0718084d4d3e5e3878d25.jpg)
+![mechanics1](https://on.xhost.top:97/images/2019/09/20/91ac668698d0718084d4d3e5e3878d25.jpg)
 
 通俗的说，生活中你能看到的以及看不到的各种变形、运动及平衡都与力学关系密切，可以用力学去描述。什么？还不懂？
 
-![mechanics2](https://at.xpect.cn:97/images/2019/09/20/3cc6ad2c097aeb9fa0a961d9772415d6.jpg)
+![mechanics2](https://on.xhost.top:97/images/2019/09/20/3cc6ad2c097aeb9fa0a961d9772415d6.jpg)
 
 你搬进了新家，激动的上蹿下跳，即便你有200斤的体重（请勿对号入座），落地的时候也不至于把楼板踩穿，这是因为利用材料力学进行了强度校核，保障了住房的安全。什么？你经常看到踩穿楼板的新闻？这口锅还是交给偷工减料的施工方来背吧。
 
-![mechanics3](https://at.xpect.cn:97/images/2019/09/20/6b9fd860bbab1fd1c5da08eb0f7329ef.jpg)
+![mechanics3](https://on.xhost.top:97/images/2019/09/20/6b9fd860bbab1fd1c5da08eb0f7329ef.jpg)
 
 你倒牛奶总是撒的到处都是，学了流体力学，妈妈再也不用担心你的奶粉钱了！
 
-![mechanics-0](https://at.xpect.cn:97/images/2019/09/20/a95172e3bf8191783466e94791463aa5.jpg)
+![mechanics-0](https://on.xhost.top:97/images/2019/09/20/a95172e3bf8191783466e94791463aa5.jpg)
 
 考过手动挡驾照的同学们应该记得，一档起步的时候，有一小段的时间车身抖的很厉害，胆小的朋友们就直接给吓到熄火了。
 
-![mechanics-1](https://at.xpect.cn:97/images/2019/09/20/f910c31960a860d990c14aa32e229d81.jpg)
+![mechanics-1](https://on.xhost.top:97/images/2019/09/20/f910c31960a860d990c14aa32e229d81.jpg)
 
 学过振动力学你就会知道这是因为起步时发动机转速较低，频率接近车体的固有频率而引起的共振现象，这时候只要轻轻给脚油让发动机转速上去越过车子的固有频率，车子就不会抖了，而你，拿到了驾照也没有车。
 
 或许有人会问，难道小编你学了力学就是为了开车不抖或者省点奶粉钱吗？
 
-![mechanics-2](https://at.xpect.cn:97/images/2019/09/20/8aa7dcb2efd6428794bb026c7f60eb06.jpg)
+![mechanics-2](https://on.xhost.top:97/images/2019/09/20/8aa7dcb2efd6428794bb026c7f60eb06.jpg)
 
 这位同学你很有想法，具体到工程实践中，情况要复杂很多，要求扎实的力学功底，接下来我们来看看力学人都学什么。
 
@@ -50,11 +50,11 @@ tags: [infor]
 
 小编刚进入大学学习时，第一门课程是大学物理，心里还在窃喜：看吧，果然学的是物理！
 
-![mechanics-3](https://at.xpect.cn:97/images/2019/09/20/06ebaf524799b86583f6e76d6127d350.jpg)
+![mechanics-3](https://on.xhost.top:97/images/2019/09/20/06ebaf524799b86583f6e76d6127d350.jpg)
 
 然而事实证明小编还是太年轻了。第二门课叫数学分析，小编心中还在嘀咕：说好的高等数学呢？好像比高数难不少。接下来的日子里，小编分别遭遇了解析几何、线性代数、概率统计、常微分方程、偏微分方程、工程数学等一系列数学课，在经历了几轮挣扎之后，小编开始慌了：我是不是选错专业了？这真的不是数学系？教务处仿佛听到了我的呼唤，于是接下来小编学习了理论力学、材料力学、弹性力学、流体力学、振动力学……
 
-![mechanics-4](https://at.xpect.cn:97/images/2019/09/20/817e177572df8a8620218dc0842afb9e.jpg)
+![mechanics-4](https://on.xhost.top:97/images/2019/09/20/817e177572df8a8620218dc0842afb9e.jpg)
 
 调侃之余，也说明了力学专业对数学工具的倚重，除上述课程外，各类数值计算方法及编程语言也是必修的。计算机的快速发展也推动了计算力学的发展，使得方程可以运用计算机进行数值求解。进入研究生阶段，还有更多高阶的课程需要修读，这里就不列出了。
 
@@ -64,51 +64,51 @@ tags: [infor]
 
 当然了，小编是不会弹的。但是小编（的老板）会修啊！据说当年行业不景气的时候，老板接了一个活。一个钢琴厂找到老板，说厂里的老师傅要退休了，但是厂里的钢琴要做一些修改，但还要保证音色和谐，希望解决这个问题。钢琴发声是通过琴弦的振动，可以把琴弦抽象成力学模型，这时弦的材料、长短及横截面积都会影响到它的固有频率。通过改变这些参数，就可以改变琴弦的频率而影响钢琴的发声了。于是老板在电脑上数值仿真之后，把结果给到钢琴厂那边，还真把问题解决了（请收下小编的膝盖）。
 
-![mechanics-5](https://at.xpect.cn:97/images/2019/09/20/c12d92425d92fcd79037a7fb17a3cabe.md.jpg)
+![mechanics-5](https://on.xhost.top:97/images/2019/09/20/c12d92425d92fcd79037a7fb17a3cabe.md.jpg)
 
 独轮车，骑起来非常拉风，相信同学们在大学校园里没少见，而这其中就有小编的室友（这你也要强行和力学扯上关系？）。但是更巧的是小编的室友本科毕业设计做的就是这个，独轮车可以抽象成力学中的倒立摆模型，推导方程后通过控制反馈就可以保证平衡了，换句话说，就可以骑了。
 
 说完小清新，我们来看看高大上。
 
-![mechanics-6](https://at.xpect.cn:97/images/2019/09/20/e3250c44d397e8052d899a730cdf02ce.jpg)
+![mechanics-6](https://on.xhost.top:97/images/2019/09/20/e3250c44d397e8052d899a730cdf02ce.jpg)
 
 力学人做什么？请看图：
 
-![mechanics-7](https://at.xpect.cn:97/images/2019/09/20/c4d2f229a7418b9630fa093269ffbd1a.jpg)
+![mechanics-7](https://on.xhost.top:97/images/2019/09/20/c4d2f229a7418b9630fa093269ffbd1a.jpg)
 
 力学是物理学、天文学和许多工程学的基础，机械、建筑、航天器和船舰等的合理设计，都必须以经典力学为基本依据。
 
 在力学理论的指导或支持下，取得的工程技术成就不胜枚举。最突出的有：以人类登月、建立空间站、 航天飞机等为代表的航天技术；
 
-![mechanics-8](https://at.xpect.cn:97/images/2019/09/20/4e2bd9325be2a8f282d4833b7fdee654.jpg)
+![mechanics-8](https://on.xhost.top:97/images/2019/09/20/4e2bd9325be2a8f282d4833b7fdee654.jpg)
 
 以速度超过5倍声速的军用飞机、起飞重量超过300t、尺寸达大半个足球场的民航机为代表的航空技术；
 
-![mechanics-9s](https://at.xpect.cn:97/images/2019/09/20/86ed4e2670e8db761a1587713713a002.jpg)
+![mechanics-9s](https://on.xhost.top:97/images/2019/09/20/86ed4e2670e8db761a1587713713a002.jpg)
 
 以单机功率达百万千瓦的汽轮机组为代表的机械工业，可以在大风浪下安全作业的单台价值超过10亿美元的海上采油平台；
 
-![mechanics-9](https://at.xpect.cn:97/images/2019/09/20/0806af1dba11c091fd916ee204ebbd85.jpg)
+![mechanics-9](https://on.xhost.top:97/images/2019/09/20/0806af1dba11c091fd916ee204ebbd85.jpg)
 
 以排水量达到5×10⁵t 的超大型运输船和航速可达30多节、深潜达几百米的潜艇为代表的船舶工业；可以安全运行的原子能反应堆；在地震多发区建造高层建筑；
 
-![mechanics-10](https://at.xpect.cn:97/images/2019/09/20/b4255a7784dd7c646f840be8fb904138.jpg)
+![mechanics-10](https://on.xhost.top:97/images/2019/09/20/b4255a7784dd7c646f840be8fb904138.jpg)
 
 正在陆上运输中起着越来越重要作用的高速列车，等等。甚至如两弹引爆的核心技术，也都是典型的力学问题。
 
-![mechanics-11](https://at.xpect.cn:97/images/2019/09/20/ca81dd657c5d3d9fe37c37da9e09c40b.md.jpg)
+![mechanics-11](https://on.xhost.top:97/images/2019/09/20/ca81dd657c5d3d9fe37c37da9e09c40b.md.jpg)
 
 除此之外，生物力学在医疗、器械等领域也发挥着巨大的作用。力学发展到今天已经构建成了宏伟的大厦，能够解决我们生存空间内的许多问题，但也有解释和解决不了的问题，需要继续探索，为其添砖加瓦，使其更完善。
 
-![mechanics-12](https://at.xpect.cn:97/images/2019/09/20/ab8ba441ec59e1f53bece751f00f841a.jpg)
+![mechanics-12](https://on.xhost.top:97/images/2019/09/20/ab8ba441ec59e1f53bece751f00f841a.jpg)
 
 除此之外，金融、互联网等行业也不缺乏力学人的身影，这也得益于力学对数学功底的要求及编程能力的重视。
 
-![mechanics-13](https://at.xpect.cn:97/images/2019/09/20/e4f84f4d2d90406fc3fe3193dd4d39b0.jpg)
+![mechanics-13](https://on.xhost.top:97/images/2019/09/20/e4f84f4d2d90406fc3fe3193dd4d39b0.jpg)
 
 说了这么多，相信你对力学这一学科一定有了新的认识吧。有没有觉得力学人不但设计得了建筑，造的了飞机，搞的来金融，码的了代码，连倒起牛奶和开起车来都自信了不少。
 
-![mechanics-14](https://at.xpect.cn:97/images/2019/09/20/920554de921b41ed7caa7a317032520e.jpg)
+![mechanics-14](https://on.xhost.top:97/images/2019/09/20/920554de921b41ed7caa7a317032520e.jpg)
 
 最后，来点正儿八经的。阐释下力学的定义：
 

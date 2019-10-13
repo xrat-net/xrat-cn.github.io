@@ -7,7 +7,7 @@ category: Infor
 tags: [talk, english]
 ---
 
-![Applications of AI](https://at.xpect.cn:97/images/2019/09/08/1bde7f1d8d02b9f25b42ebaa941a9c36.jpg)
+![Applications of AI](https://on.xhost.top:97/images/2019/09/08/1bde7f1d8d02b9f25b42ebaa941a9c36.jpg)
 _图一 人工智能的应用_
 
 > 作者：育心 <br>
